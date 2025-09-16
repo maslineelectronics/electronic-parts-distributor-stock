@@ -2,8 +2,6 @@
 
 Masline is a trusted electronic parts distributor stock and electronic components supplier stock, offering an easy-to-use parts finder. Perfect for startups and businesses seeking reliable electronic parts distributor and supplier services to source quality components efficiently.
 
-# Masline - Your Trusted Electronic Parts Distributor & Components Supplier
-
 Welcome to Masline! If you’re searching for a reliable electronic parts distributor stock or an electronic components supplier stock, you’ve come to the right place. Whether you’re a startup looking to source quality components or an established business in need of a dependable supplier, Masline is here to help you find exactly what you need.
 
 ## What We Offer
